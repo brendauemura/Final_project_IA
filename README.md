@@ -4,3 +4,4 @@ Normal dataset from: https://www.kaggle.com/datasets/paultimothymooney/chest-xra
 
 Covid dataset from: https://github.com/ieee8023/covid-chestxray-dataset/tree/master/images
 
+Video apresentation on YouTube: https://www.youtube.com/watch?v=cSnagDOlPI0
